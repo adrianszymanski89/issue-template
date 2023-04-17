@@ -1,7 +1,7 @@
 name: Form Feature Request
-description: Do you have an idea for an improvement or a feature ✨ ? Feel free to share!
+description: Do you have an idea for an improvement or a feature ✨? Feel free to share!
 title: "[Feature]: "
-labels: [enhancement, triage]
+labels: [enhancement]
 assignees:
   - octocat
 body:
