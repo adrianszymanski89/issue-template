@@ -1,0 +1,30 @@
+name: Form Feature Request
+description: File a feature request
+title: "[Feature]: "
+labels: [enhancement, triage]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new feature!
+  - type: textarea
+    id: specification
+    attributes:
+      label: Feature specification
+      description: Provide the feature specification
+    validations:
+      required: true
+  - type: input
+    id: resources
+    attributes:
+      label: Resources/Inspiration
+      description: Can you provide links to the similar features?
+    validations:
+      required: false
+  - type: textarea
+    id: user_story
+    attributes:
+      label: User Story
+      description: Brief narrative describing the user expectations when the feature is ready.
