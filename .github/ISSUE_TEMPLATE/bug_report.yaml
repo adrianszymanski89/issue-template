@@ -20,14 +20,14 @@ body:
     attributes:
       label: Demo/example
       description: Please provide a code sample or a demo where we'll be able to replicate the issue
-  - type: dropdown
+  - type: checkboxes
     id: support-type
     attributes:
       label: Support Type
       description: Do you already have a license for Handsontable?
       options:
-        - 'Yes'
-        - 'No'
+        - label: 'Yes'
+        - label: 'No'
     validations:
       required: true
   - type: input
