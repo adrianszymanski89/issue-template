@@ -24,7 +24,7 @@ body:
     id: support-type
     attributes:
       label: Support Type
-      description: Do you already has a license for Handsontable?
+      description: Do you already have a license for Handsontable?
       options:
         - 'Yes'
         - 'No'
