@@ -26,7 +26,7 @@ body:
       label: Support Type
       description: Do you already have a license for Handsontable?
       options:
-        - 'Yes' (Default)
+        - Yes (Default)
         - 'No'
     validations:
       required: true
