@@ -27,8 +27,8 @@ body:
     attributes:
       description: Do you already has a license for Handsontable?
       options:
-        - Yes
-        - No
+        - 'Yes'
+        - 'No'
     validations:
       required: true
   - type: input
