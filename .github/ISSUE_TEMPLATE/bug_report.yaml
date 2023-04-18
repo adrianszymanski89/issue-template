@@ -23,6 +23,7 @@ body:
   - type: dropdown
     id: support-type
     attributes:
+      label: Support Type
       description: Do you already has a license for Handsontable?
       options:
         - 'Yes'
