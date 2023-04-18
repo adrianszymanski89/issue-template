@@ -1,11 +1,12 @@
-name: Form bug Report
+name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: [bug]
 body:
   - type: markdown
     attributes:
-      value: "Thanks for taking the time to fill out this bug report! 🙌"
+      value: | 
+        Thanks for taking the time to fill out this bug report! 🙌
   - type: textarea
     id: what-happened
     attributes:
