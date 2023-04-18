@@ -7,6 +7,8 @@ body:
     attributes:
       value: | 
         Thanks for taking the time to fill out this bug report! 🙌
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -20,6 +22,8 @@ body:
     attributes:
       label: Demo/example
       description: Please provide a code sample or a demo where we'll be able to replicate the issue
+    validations:
+      required: true
   - type: dropdown
     id: support-type
     attributes:
