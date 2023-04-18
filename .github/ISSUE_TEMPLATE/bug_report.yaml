@@ -13,7 +13,7 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you experience
-      value: ""
+      value: ''
     validations:
       required: true
   - type: input
@@ -21,7 +21,7 @@ body:
     attributes:
       label: Demo/example
       description: Please provide a code sample or a demo where we'll be able to replicate the issue
-      value: ""
+      value: ''
   - type: dropdown
     id: support-type
     attributes:
