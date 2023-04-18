@@ -25,10 +25,9 @@ body:
     attributes:
       label: Support Type
       description: Do you already have a license for Handsontable?
-      multiple: true
       options:
-        - 'Yes'
-        - 'No'
+        - tak
+        - nie
     validations:
       required: true
   - type: input
