@@ -1,4 +1,7 @@
 contact_links:
+  - name: Typo Report
+    url: https://github.com/adrianszymanski89/issue-template/issues/new?assignees=&labels=bug&template=report_typo.yaml&title=%5BBug%5D%3A+
+    about: Report a typo
   - name: Contact Support
     url: https://handsontable.com/contact?category=technical_support
     about: Do you prefer to send us an email? Feel free to use our email form 📝.
