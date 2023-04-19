@@ -20,11 +20,11 @@ body:
     id: resources
     attributes:
       label: Resources/Inspiration
-      description: Can you provide links to the similar features?
+      description: Can you provide links to similar features?
     validations:
       required: false
   - type: textarea
     id: user_story
     attributes:
       label: User Story
-      description: Brief narrative describing the user expectations when the feature is ready.
+      description: Brief narrative describing user expectations when the feature is used
