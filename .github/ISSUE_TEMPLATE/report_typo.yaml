@@ -1,22 +1,22 @@
 name: Typo Report
-description: Did you find a typo or a discrepency in the documentation? Let us know 📄
+description: Did you find a typo or a discrepancy in the documentation? Let us know 📄
 title: "[Bug]: "
 labels: [bug]
 body:
   - type: input
     id: link
     attributes:
-      label: Link to a the typo/discrepency
+      label: Link to the typo/discrepancy
       description: Please provide the link
     validations:
       required: true
   - type: textarea
     id: screenshot
     attributes:
-      label: Share a screenshot
-      description: Share a screenshot of the found typo/discrepency so it is easier to find it or descibe the location of the issue
+      label: Share a screenshot and describe the issue
+      description: Tell us what the mistake is
   - type: textarea
     id: result
     attributes:
-      label: Expected result
-      description: Provide the description of a expected result
+      label: Expected correction
+      description: Please provide the expected correction
