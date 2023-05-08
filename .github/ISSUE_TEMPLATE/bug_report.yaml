@@ -16,7 +16,7 @@ body:
       description: Please provide the description of the actual and the expected result
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: required-steps
     attributes:
       label: How to recreate the issue?
