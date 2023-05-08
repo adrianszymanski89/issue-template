@@ -55,5 +55,9 @@ body:
   - type: input
     id: version-hot
     attributes:
-      label: Which Handsontable version do you use?    
+      label: Which Handsontable version do you use?
+  - type: input
+    id: framework
+    attributes:
+      label: What framework do you use?
 
