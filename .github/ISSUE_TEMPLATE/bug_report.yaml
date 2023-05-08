@@ -16,6 +16,20 @@ body:
       description: Please provide the description of the actual and the expected result
     validations:
       required: true
+   - type: textarea
+    id: required-steps
+    attributes:
+      label: How to recreate the issue?
+      description: Please provide the ordered steps of how to recreate the issue
+    validations:
+      required: true
+   - type: textarea
+    id: screenshots
+    attributes:
+      label: Video/Screenshots
+      description: Please provide the a screenshot or a short video presenting the issue
+    validations:
+      required: true
   - type: input
     id: demo
     attributes:
