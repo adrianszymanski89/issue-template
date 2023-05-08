@@ -23,7 +23,7 @@ body:
       description: Please provide the ordered steps of how to recreate the issue
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: screenshots
     attributes:
       label: Video/Screenshots
