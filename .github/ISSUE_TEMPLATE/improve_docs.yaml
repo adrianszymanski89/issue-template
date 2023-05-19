@@ -1,0 +1,15 @@
+name: Improve documentation
+description: Suggest an improvement to the docs.
+title: "[Feature]: "
+labels: [Feature]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Page URL
+      description: Which page are you referring to?
+      placeholder: https://handsontable.com/docs/…
+  - type: textarea
+    id: improvement
+    attributes:
+      label: Improvement description
