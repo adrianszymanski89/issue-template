@@ -1,7 +1,5 @@
 name: Improve documentation
 description: Suggest an improvement to the docs.
-title: "[Feature]: "
-labels: [Feature]
 body:
   - type: input
     id: link
