@@ -20,7 +20,7 @@ body:
   - type: input
     id: demo
     attributes:
-      label: Provide a link to the demo with the bug reproduction (optional)
+      label: Provide a link to the demo with the bug reproduction
       description: Use StackBlitz, CodeSandbox, CodePen, JSFiddle, or any other online sandbox.
   - type: input
     id: hot-version
@@ -31,7 +31,7 @@ body:
   - type: input
     id: framework
     attributes:
-      label: Framework version (optional)
+      label: Framework version
   - type: input
     id: environment
     attributes:
