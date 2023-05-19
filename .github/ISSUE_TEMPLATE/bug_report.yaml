@@ -39,4 +39,8 @@ body:
       description: What browser and operating system are you using?
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing by creating this issue! ❤️
 
