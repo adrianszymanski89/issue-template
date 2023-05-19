@@ -1,26 +1,13 @@
 name: Bug Report
-description: Did you find a bug 🐛? Please report, and help us to solve it faster. 
+description: Something is broken? Create a report to help us improve. 
 title: "[Bug]: "
 labels: [bug]
 body:
-  - type: markdown
-    attributes:
-      value: | 
-        Thanks for taking the time to fill out this bug report! 🙌
-    validations:
-      required: true
   - type: textarea
-    id: what-happened
+    id: describe-bug
     attributes:
-      label: What happened?
-      description: Please provide the description of the actual and the expected result
-    validations:
-      required: true
-  - type: textarea
-    id: required-steps
-    attributes:
-      label: How to recreate the issue?
-      description: Please provide the ordered steps of how to recreate the issue
+      label: Describe the bug
+      description: Describe what happens and the steps to recreate the problem. Issues that we can't reproduce will be closed.
     validations:
       required: true
   - type: textarea
@@ -33,31 +20,22 @@ body:
   - type: input
     id: demo
     attributes:
-      label: Demo/example
-      description: Please provide a code sample or a demo so we can replicate the issue
+      label: Provide a link to the demo with the bug reproduction (optional)
+      description: Use StackBlitz, CodeSandbox, CodePen, JSFiddle, or any other online sandbox.
+  - type: input
+    id: hot-version
+    attributes:
+      label: Handsontable version
     validations:
       required: true
-  - type: dropdown
-    id: support-type
-    attributes:
-      label: Support Type
-      description: Do you already have a license for Handsontable?
-      multiple: true
-      options:
-        - 'Yes'
-        - 'No'
-    validations:
-      required: true
-  - type: input
-    id: browsers
-    attributes:
-      label: On which browser and OS did the issue occur?
-  - type: input
-    id: version-hot
-    attributes:
-      label: Which Handsontable version do you use?
   - type: input
     id: framework
     attributes:
-      label: What framework do you use?
+      label: Framework version (optional)
+  - type: input
+    id: environment
+    attributes:
+      label: Your environment
+    validations:
+      required: true
 
