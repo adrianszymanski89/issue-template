@@ -1,4 +1,10 @@
 contact_links:
-  - name: Contact Support
+  - name: Support request
     url: https://handsontable.com/contact?category=technical_support
-    about: Do you prefer to send us an email? Feel free to use our email form 📝.
+    about: Report your issue to our technical support team.
+  - name: Feature requests and questions
+    url: https://github.com/handsontable/handsontable/discussions
+    about: Start a new discussion about your idea.
+  - name: Discuss on Forum
+    url: https://forum.handsontable.com/
+    about: Start a discussion with the community on our Developers’ Forum.
