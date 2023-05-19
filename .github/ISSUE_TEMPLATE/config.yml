@@ -1,3 +1,4 @@
+blank_issues_enabled: false
 contact_links:
   - name: Feature requests and questions
     url: https://github.com/handsontable/handsontable/discussions
