@@ -11,3 +11,7 @@ body:
     id: improvement
     attributes:
       label: Improvement description
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing by creating this issue! ❤️
