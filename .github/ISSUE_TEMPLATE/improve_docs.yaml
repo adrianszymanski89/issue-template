@@ -1,4 +1,4 @@
-name: Improve documentation
+name: Documentation improvement
 description: Suggest an improvement to the docs.
 body:
   - type: input
