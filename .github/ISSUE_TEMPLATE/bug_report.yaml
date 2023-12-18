@@ -23,7 +23,7 @@ body:
     attributes:
       label: Tasks to do
       description: TODO
-  - type: textareas
+  - type: textarea
     id: delivery
     attributes:
       label: Delivery
