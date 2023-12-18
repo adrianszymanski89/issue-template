@@ -11,26 +11,26 @@ body:
   - type: textarea
     id: goals
     attributes:
-      label: Goals :dart:
+      label: Goals
       description: TODO
   - type: input
     id: reference
     attributes:
-      label: Reference :left_right_arrow:
+      label: Reference
       description: Use StackBlitz, CodeSandbox, CodePen, JSFiddle, or any other online sandbox.
   - type: textarea
     id: todo
     attributes:
-      label: Tasks to do :white_check_mark:
+      label: Tasks to do
       description: TODO
   - type: textareas
     id: delivery
     attributes:
-      label: Delivery :truck:
+      label: Delivery
       description: TODO
   - type: textarea
     id: questions
     attributes:
-      label: Doubts and questions :question:
+      label: Doubts and questions
       description: TODO
 
