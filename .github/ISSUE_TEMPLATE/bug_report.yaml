@@ -4,7 +4,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: :writing_hand: Description
+      label: Description
       description: Describe what happens and the steps to recreate the problem.
     validations:
       required: true
