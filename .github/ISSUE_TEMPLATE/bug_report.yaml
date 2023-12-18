@@ -1,46 +1,36 @@
-name: Bug Report
+name: Issue Report
 description: Something is broken? Create a report to help us improve. 
-title: "[Bug]: "
-labels: [bug]
 body:
   - type: textarea
-    id: describe-bug
+    id: description
     attributes:
-      label: Describe the bug
-      description: Describe what happens and the steps to recreate the problem. Issues that we can't reproduced will be closed.
+      label: Description :writing_hand:
+      description: Describe what happens and the steps to recreate the problem.
     validations:
       required: true
   - type: textarea
-    id: screenshots
+    id: goals
     attributes:
-      label: Video/Screenshots
-      description: Please provide a screenshot or a short video presenting the issue
-    validations:
-      required: true
+      label: Goals :dart:
+      description: TODO
   - type: input
-    id: demo
+    id: reference
     attributes:
-      label: Provide a link to the demo with the bug reproduction
+      label: Reference :left_right_arrow:
       description: Use StackBlitz, CodeSandbox, CodePen, JSFiddle, or any other online sandbox.
-  - type: input
-    id: hot-version
+  - type: textarea
+    id: todo
     attributes:
-      label: Handsontable version
-    validations:
-      required: true
-  - type: input
-    id: framework
+      label: Tasks to do :white_check_mark:
+      description: TODO
+  - type: textareas
+    id: delivery
     attributes:
-      label: Framework version
-  - type: input
-    id: environment
+      label: Delivery :truck:
+      description: TODO
+  - type: textarea
+    id: questions
     attributes:
-      label: Your environment
-      description: What browser and operating system are you using?
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: |
-        Thank you for contributing by creating this issue! ❤️
+      label: Doubts and questions :question:
+      description: TODO
 
