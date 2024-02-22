@@ -1,24 +1,24 @@
-name: Bug Report old
-description: Something is broken? Create a report to help us improve. 
-body:
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Describe what the problem is
-  - type: textarea
-    id: steps
-    attributes:
-      label: Steps to reproduce and example
-      description: Provide steps to reproduce the issue, and link to the code example (if possible)
-  - type: textarea
-    id: images
-    attributes:
-      label: Images/Videos
-      description: Add visual representation of the issue if needed
-  - type: textarea
-    id: env
-    attributes:
-      label: Environemnt
-      description: Provide information about your OS, Handsontable and browser versions
+# name: Bug Report old
+# description: Something is broken? Create a report to help us improve. 
+# body:
+#   - type: textarea
+#     id: description
+#     attributes:
+#       label: Description
+#       description: Describe what the problem is
+#   - type: textarea
+#     id: steps
+#     attributes:
+#       label: Steps to reproduce and example
+#       description: Provide steps to reproduce the issue, and link to the code example (if possible)
+#   - type: textarea
+#     id: images
+#     attributes:
+#       label: Images/Videos
+#       description: Add visual representation of the issue if needed
+#   - type: textarea
+#     id: env
+#     attributes:
+#       label: Environemnt
+#       description: Provide information about your OS, Handsontable and browser versions
 
