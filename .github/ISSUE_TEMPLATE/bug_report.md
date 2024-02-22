@@ -8,21 +8,22 @@ assignees: ''
 ---
 
 **Description**
-Describe what the problem is.
+<!--- Describe what the problem is. -->
+
 
 **Steps to reproduce and example**
-Provide steps to reproduce the issue and link to the code example (if possible).
+<!--- Provide steps to reproduce the issue and link to the code example (if possible). -->
 
 1.
 2.
 3.
 
 **Images/Videos**
-Add a visual representation of the issue if needed.
+<!--- Add a visual representation of the issue if needed. -->
+
 
 **Environment**
-Provide information about your OS, Handsontable, and browser versions.
+<!--- if you're referring to any other version that is the latest or it is a regression, please add this info -->
 
-* Handsontable version:
-* Browser name and version:
-* Operating system:
+Handsontable version: latest
+Browser & system:
