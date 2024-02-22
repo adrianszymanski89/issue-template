@@ -1,4 +1,4 @@
-name: Bug Report
+name: Bug Report old
 description: Something is broken? Create a report to help us improve. 
 body:
   - type: textarea
