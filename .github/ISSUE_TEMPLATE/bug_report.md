@@ -7,22 +7,22 @@ assignees: ''
 
 ---
 
-###Description
+### Description
 <!--- Describe what the problem is. -->
 
 
-###Steps to reproduce and example
+### Steps to reproduce and example
 <!--- Provide steps to reproduce the issue and link to the code example (if possible). -->
 
 1.
 2.
 3.
 
-###Images/Videos
+### Images/Videos
 <!--- Add a visual representation of the issue if needed. -->
 
 
-###Environment
+### Environment
 <!--- if you're referring to any other version that is the latest or it is a regression, please add this info -->
 
 Handsontable version: latest
