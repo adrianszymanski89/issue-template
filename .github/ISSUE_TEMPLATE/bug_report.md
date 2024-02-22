@@ -1,0 +1,28 @@
+---
+name: Bug report
+about: Something is broken? Create a report to help us improve.
+title: ''
+labels: bug, internal
+assignees: ''
+
+---
+
+**Description**
+Describe what the problem is.
+
+**Steps to reproduce and example**
+Provide steps to reproduce the issue and link to the code example (if possible).
+
+1.
+2.
+3.
+
+**Images/Videos**
+Add a visual representation of the issue if needed.
+
+**Environment**
+Provide information about your OS, Handsontable, and browser versions.
+
+* Handsontable version:
+* Browser name and version:
+* Operating system:
