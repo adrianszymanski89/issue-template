@@ -8,8 +8,11 @@ assignees: ''
 ---
 
 **Description**
-Provide the details about the requested feature.
+<!---  Provide the details about the requested feature. -->
 
 
 **Specification**
-Provide the specification for the feature.
+<!---  Provide the specification for the feature. -->
+
+
+<!--- Please remember to add other required labels for better searchability -->
