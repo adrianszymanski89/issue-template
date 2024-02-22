@@ -27,3 +27,6 @@ assignees: ''
 
 Handsontable version: latest
 Browser & system:
+
+
+<!--- Please remember to add other required labels for better searchability -->
