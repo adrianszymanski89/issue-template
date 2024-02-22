@@ -2,7 +2,7 @@
 name: Docs
 about: Docs related issues
 title: ''
-labels: ''
+labels: documentation, internal
 assignees: ''
 
 ---
