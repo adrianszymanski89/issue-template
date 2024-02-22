@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Description
-<!--- Describe what the problem is. -->
+<!--- Describe the case. -->
 
 
 ### Steps to reproduce and example
