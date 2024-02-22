@@ -1,6 +1,6 @@
 name: Bug Report
 description: Something is broken? Create a report to help us improve. 
-labels: "Bug", "Internal"
+labels: [Bug], [internal]
 body:
   - type: textarea
     id: description
