@@ -1,36 +1,24 @@
-name: Issue Report
+name: Bug Report
 description: Something is broken? Create a report to help us improve. 
 body:
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: Describe what happens and the steps to recreate the problem.
-    validations:
-      required: true
+      description: Describe what the problem is
   - type: textarea
-    id: goals
+    id: steps
     attributes:
-      label: Goals
-      description: TODO
-  - type: input
-    id: reference
-    attributes:
-      label: Reference
-      description: Use StackBlitz, CodeSandbox, CodePen, JSFiddle, or any other online sandbox.
+      label: Steps to reproduce and example
+      description: Provide steps to reproduce the issue, and link to the code example (if possible)
   - type: textarea
-    id: todo
+    id: images
     attributes:
-      label: Tasks to do
-      description: TODO
+      label: Images/Videos
+      description: Add visual representation of the issue if needed
   - type: textarea
-    id: delivery
+    id: env
     attributes:
-      label: Delivery
-      description: TODO
-  - type: textarea
-    id: questions
-    attributes:
-      label: Doubts and questions
-      description: TODO
+      label: Environemnt
+      description: Provide information about your OS, Handsontable and browser versions
 
