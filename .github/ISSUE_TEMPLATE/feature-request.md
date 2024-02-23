@@ -2,7 +2,7 @@
 name: Feature request
 about: Propose a new feature
 title: ''
-labels: feature
+labels: feature, internal
 assignees: ''
 
 ---
