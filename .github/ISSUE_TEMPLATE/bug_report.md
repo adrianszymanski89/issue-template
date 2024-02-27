@@ -2,7 +2,7 @@
 name: Bug report
 about: Something is broken? Create a report to help us improve.
 title: ''
-labels: bug, internal
+labels: bug
 assignees: ''
 
 ---
@@ -29,4 +29,4 @@ Handsontable version: latest
 Browser & system:
 
 
-<!--- Please remember to add other required labels for better searchability -->
+<!--- Don't forget to add any other labels needed to help find things easily -->
