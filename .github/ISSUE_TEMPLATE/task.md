@@ -2,9 +2,9 @@
 name: Task
 about: Blank form for other tasks
 title: ''
-labels: internal
+labels: ''
 assignees: ''
 
 ---
 
-<!--- Please remember to add other required labels for better searchability -->
+<!--- Don't forget to add any other labels needed to help find things easily -->
