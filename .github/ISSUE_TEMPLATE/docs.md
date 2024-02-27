@@ -2,7 +2,7 @@
 name: Docs
 about: Docs related issues
 title: ''
-labels: internal
+labels: documentation
 assignees: ''
 
 ---
@@ -18,4 +18,4 @@ assignees: ''
 
 
 
-<!--- Please remember to add other required labels for better searchability -->
+<!--- Don't forget to add any other labels needed to help find things easily -->
